@@ -108,8 +108,3 @@ p, #daysleft {
 }
 
 
-@media screen and (min-width: 300px)  {
-      .item {
-            max-width: 100%
-      }
-}
