@@ -34,8 +34,8 @@ body {
 .item {
   font-size: 18px;
   margin: 25px;
-  width: 280px;
-  height: 520px;
+  width: 290px;
+  height: 540px;
   padding: 20px;
   border-radius: 15px;
   background-color: var(--verydarkbluecard);
