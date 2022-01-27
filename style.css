@@ -92,19 +92,15 @@ p, #daysleft {
 @media screen and (min-width: 900px)  {
 
   .container {display: flex;
-/*     margin: 25px; */
     height: 100vh;
     align-items: center;
     justify-content: center;
 
   }
       
-/*  .item{
-/*   margin-top:85px; */
-  width: 300px;
+.item{
   height: 550px;
-  } */
 
 }
 
-
+}
