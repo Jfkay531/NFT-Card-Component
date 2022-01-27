@@ -74,9 +74,13 @@ hr {
   padding-left: 10px;
 }
 
+h1 {
+line-height: 20px;
+}
 
 .title, #author {
   color: var(--white);
+  
 }
 p, #daysleft {
   color: var(--softblue);
