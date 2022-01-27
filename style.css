@@ -75,7 +75,8 @@ hr {
 }
 
 h1 {
-line-height: 20px;
+line-height: 18px;
+font-weight: 400px;
 }
 
 .title, #author {
