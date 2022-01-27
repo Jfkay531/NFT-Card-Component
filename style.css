@@ -75,9 +75,6 @@ hr {
   padding-left: 40px;
 }
 
-h1 {
-line-height: 18px;
-}
 
 .title, #author {
   color: var(--white);
@@ -103,9 +100,5 @@ p, #daysleft {
 
   }
       
-.item{
-  height: 510px;
-
-}
 
 }
